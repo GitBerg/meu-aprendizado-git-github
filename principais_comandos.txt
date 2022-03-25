@@ -1,0 +1,1 @@
+Os principais comandos git são: init, add, commit
