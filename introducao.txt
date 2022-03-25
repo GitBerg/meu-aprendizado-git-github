@@ -1,0 +1,1 @@
+O git é muito importante para o controle de versões e trabalhos em conjunto em simultaneo
